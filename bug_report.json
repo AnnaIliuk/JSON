@@ -1,7 +1,6 @@
 {
  "Bug-ID": "1",
- "Title": "Карточка продукта "MAKEUP REVOLUTION
-Conceal & Define Full Coverage Concealer" находится во вкладке для другого типа продукта",
+ "Title": "Карточка продукта "MAKEUP REVOLUTION Conceal and Define Full Coverage Concealer" находится во вкладке для другого типа продукта",
  "Project": "tint.com",
  "STR": [
    "1. Открыть страницу входа",
@@ -9,10 +8,8 @@ Conceal & Define Full Coverage Concealer" находится во вкладке
    "3. Пройти Face analysis"
    "4. Клик по вкладке [Contour]"
    ],
- "AR": "Карточка продукта "MAKEUP REVOLUTION
-Conceal & Define Full Coverage Concealer" находится во вкладке [Contour]",
- "ER": "Карточка продукта "MAKEUP REVOLUTION
-Conceal & Define Full Coverage Concealer" находится во вкладке [Concealer]",
+ "AR": "Карточка продукта "MAKEUP REVOLUTION Conceal and Define Full Coverage Concealer" находится во вкладке [Contour]",
+ "ER": "Карточка продукта "MAKEUP REVOLUTION Conceal and Define Full Coverage Concealer" находится во вкладке [Concealer]",
 
  "Environment":{
    "OS": "Windows 10 PRO 64-bit operating system, x64 processor",
